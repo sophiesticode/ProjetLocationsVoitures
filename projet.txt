@@ -1,0 +1,36 @@
+Detail des fichiers
+-------------------------
+controle:
+
+-> admin.php  
+-> client.php
+ajout_u()
+-> facture.php
+-> vehicule.php
+accueil()
+
+--------------------------
+modele:
+
+-> client.sql
+-> connectBD.php
+-> vehiculeBD.php
+
+--------------------------
+vue:
+__________________________
+--------------------------
+client:
+-> accueil.tpl
+-> ident.tpl
+-> inscription.tpl
+-> menu.tpl
+
+erreur404.tpl
+
+images:()
+style:()
+
+--------------------------
+index.php
+
